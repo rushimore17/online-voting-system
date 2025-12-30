@@ -3,5 +3,4 @@ The  system aims to replace the traditional paper-based voting process with a se
 
 https://yadnyeshkolte.github.io/online-voting-system/
 
-
-I am managing the Login and Register :)
+This document provides a reference for the RESTful API endpoints available in the Online Voting System. The API is divided into public (Authentication, Verification) and protected (Admin, User) sections.
